@@ -2,3 +2,4 @@ Flask
 opencv-python-headless
 numpy
 inference_sdk
+Flask==2.0.1
